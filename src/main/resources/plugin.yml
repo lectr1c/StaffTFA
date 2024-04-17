@@ -1,0 +1,4 @@
+name: StaffTSV
+version: '${version}'
+main: com.lectr1c.stafftsv.StaffTSV
+api-version: '1.20'
